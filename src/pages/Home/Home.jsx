@@ -3,7 +3,7 @@ import Card from '../../components/Card/Card.jsx';
 import axios from 'axios';
 import Loading from '../../components/Loading/Loading.jsx';
 import HomeSlider from '../../components/HomeSlider/HomeSlider.jsx';
-import CategorySlider from '../../components/CategorySlider/CAtegorySlider.jsx';
+import CategorySlider from '../../components/CategorySlider/CategorySlider.jsx';
 
 export default function Home() {
 
